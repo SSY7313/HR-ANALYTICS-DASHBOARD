@@ -37,6 +37,8 @@ Monitor diversity metrics to ensure an inclusive workplace environment.
 
 The dashboard is developed using Microsoft Power BI, leveraging its powerful data visualization and reporting capabilities.
 
+![Capture55](https://github.com/user-attachments/assets/90da64c3-c277-41b2-a8c5-990e72051264)
+
 #### Data Sources:
 
 Data is integrated from various HR systems and databases, providing a holistic view of the organization’s workforce.
