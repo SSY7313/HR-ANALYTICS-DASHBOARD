@@ -4,6 +4,8 @@
 ## Overview
 The HR Analytics Dashboard is a comprehensive tool designed to provide insights into key human resource metrics. This dashboard utilizes data visualization techniques to help organizations understand their workforce dynamics, optimize talent management, and drive strategic HR decisions.
 
+![Capture11](https://github.com/user-attachments/assets/7fa0e760-239b-474a-97de-6454e2ef0791)
+
 ## Features
 
 #### Employee Demographics:
