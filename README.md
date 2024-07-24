@@ -12,6 +12,9 @@ The HR Analytics Dashboard is a comprehensive tool designed to provide insights 
 
  Visualize employee distribution by age, gender, department, and location.
 
+ ![Capturee](https://github.com/user-attachments/assets/d043a2d9-7e0f-432f-9c3a-27bcff9eba1c)
+![Captur](https://github.com/user-attachments/assets/41b6e1d4-b909-454d-8d9f-8ce90c63ebe8)
+
 #### Attrition Analysis:
 
  Identify trends and patterns in employee turnover, including reasons for leaving and high-risk groups.
